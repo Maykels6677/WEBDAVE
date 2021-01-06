@@ -47,7 +47,7 @@ echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple"."$green"BAPAK KAU PEANG"$indi
 echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo
-echo $white "╭─"$yellow"DEMON|TEAM"$cyan" ~/RABBIT-ST"$white
+echo $white "╭─"$yellow"DEMON|TEAM"$cyan" ~/Mr.Maykels-ST"$white
 read -p " ╰─$ "  apaan
 echo
 if [ $apaan = "A" ] || [ $apaan = "a" ]
